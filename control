@@ -1,0 +1,10 @@
+Package: com.cemck.pliris
+Name: Pliris
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Completes search queries in Safari when tapped on the arrow symbol.
+Maintainer: cemck
+Author: cemck
+Section: Tweaks
+Icon: https://cemck.github.io/repo/depictions/com.cemck.pliris/pliris_icon@2x.png
