@@ -1,7 +1,7 @@
 Package: com.cemck.pliris
 Name: Pliris
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Completes search queries in Safari when tapped on the arrow symbol.
 Maintainer: cemck
