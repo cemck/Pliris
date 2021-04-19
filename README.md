@@ -1,6 +1,8 @@
 # Pliris
 
-iOS runtime tweak enabling a button to complete search queries in Safari (iOS 11 - iOS 12.1.2)
+iOS runtime tweak enabling a button to complete search queries in Safari
+
+Compatibility: iOS 11 - iOS 12.1.2
 
 Repo: https://cemck.github.io/repo
 
